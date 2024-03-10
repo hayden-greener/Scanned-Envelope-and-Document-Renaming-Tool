@@ -1,12 +1,3 @@
-# Scanned Envelope and Document Renaming Tool
-
-
-- Epson scanner (Tested with; Should work for other scanners who has a similar format of "imgYYYYMMDD_HHMMSS.jpg")
-- Computer with Python
-
-
-# How Processing Looks Before AND After
-
 ## Before
 ```
 Before Folder Structure:
