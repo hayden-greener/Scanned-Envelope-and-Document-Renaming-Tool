@@ -57,7 +57,7 @@ After Folder Structure:
         └── envelope3_batch2_scan3_20240309_13579246.jpg
 ```
 
-## Folder Structure
+## While Scanning
 
 1. Create a separate folder for each envelope you scan. The folder name should be a number (e.g., "1", "2", "3", and so on).
 
